@@ -2,6 +2,4 @@
 
 bundle exec rspec
 
-=== How to run the this application
-
 rails server ( default: localhost:3000 )
